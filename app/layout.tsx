@@ -5,7 +5,7 @@ import { Inter } from 'next/font/google'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'Simple Image Editor',
+  title: 'Editorious',
   description: 'A clean and simple image editor built with Next.js',
 }
 
